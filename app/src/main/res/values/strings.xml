@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Kolej Tun Dr Ismail</string>
+    <string name="register">Register</string>
+    <string name="Activity">Activity List</string>
+    <string name="Merit">Merit Status</string>
+    <string name="College">College Information</string>
+    <string name="Report">Complaint</string>
+
+    <string-array name="building">
+        <item>Arked Angkasa</item>
+        <item>Cafe Mak Ngah</item>
+        <item>Dataran Resak</item>
+        <item>Dewan Sri Resak</item>
+        <item>Dewan Serbaguna</item>
+        <item>Gelanggang Futsal</item>
+        <item>Gelanggang Bola Keranjang</item>
+        <item>MA1</item>
+        <item>MA2</item>
+        <item>MA3</item>
+        <item>MA4</item>
+        <item>MA5</item>
+        <item>MA6</item>
+        <item>MA7</item>
+        <item>M01</item>
+        <item>M02</item>
+        <item>M03</item>
+        <item>M04</item>
+        <item>M05</item>
+        <item>M06</item>
+        <item>M07</item>
+        <item>M16</item>
+        <item>M17</item>
+        <item>M19</item>
+        <item>M20</item>
+        <item>M21</item>
+        <item>M22</item>
+        <item>M23</item>
+        <item>M25</item>
+        <item>M27</item>
+    </string-array>
+
+    <string-array name="floor">
+        <item>Level 1</item>
+        <item>Level 2</item>
+        <item>Level 3</item>
+        <item>Level 4</item>
+        <item>Level 5</item>
+        <item>Others</item>
+    </string-array>
+
+    <string-array name="prob_type">
+        <item>Civil</item>
+        <item>Mechanical</item>
+        <item>Furniture</item>
+        <item>Electrical</item>
+        <item>Others</item>
+    </string-array>
+
+    <string name="selectdate">Pick time</string>
+
+    <string-array name="role">
+        <item>Security Team</item>
+        <item>Food Team</item>
+        <item>Volunteer Team</item>
+        <item>Special Task Duty Team</item>
+        <item>Sponsor Team</item>
+        <item>Publicity Team</item>
+    </string-array>
+</resources>
