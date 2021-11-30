@@ -4,7 +4,7 @@ KTDIPortal is a Web-Apps platform to automate the centralization of the Merit of
 **Web of KTDIPortal** is a web application which focus on the user of **Staffs** and **Workflow of Management** instantly.
 Meanwhile **Apps of KTDIPortal** is a mobile application which focus on the user of **Students** and **Workflow of Application of College's Activity**
 
-If you want to know more details about **KTDIPortal** can be refer from [Demo Video in Youtube](https://www.youtube.com/watch?v=or0nWaCgavs&t=112s)
+If you want to know more details about **KTDIPortal** can be refer from [Website of KTDIPortal](https://appdev855.wixsite.com/ktdiportal)
 
 ###### Build With
 Here is the important framework that used to build this project
@@ -22,7 +22,7 @@ This project is a starting point for a Flutter application that focus on Android
    - Android device
      1. Enable Developer options and USB debugging on your device.
      2. Windows-only: Install the Google USB Driver.
-	      a. In Android Studio, click Tools > SDK Manager.
+	a. In Android Studio, click Tools > SDK Manager.
         b. Click the SDK Tools tab.
         c. Select Google USB Driver and click OK.
         d. Proceed to install the package. When done, the driver files are downloaded into the android_sdk\extras\google\usb_driver\ directory.
